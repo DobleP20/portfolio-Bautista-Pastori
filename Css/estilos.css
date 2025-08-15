@@ -205,13 +205,6 @@ img.logo {
   margin: auto;
 }
 
-.marco-foto figcaption {
-  color: var(--texto-suave);
-  margin-top: 8px;
-  font-size: .95rem;
-}
-
-
 .seccion {
   padding: 72px 0; 
 }
