@@ -27,4 +27,3 @@ Incluye HTML, CSS y JavaScript básico. El objetivo fue mostrar mis datos, habil
 ---
 💡 *Este es mi primer proyecto, así que probablemente lo siga mejorando con el tiempo.*
 
-"# portfolio-Bautista-Pastori" 
